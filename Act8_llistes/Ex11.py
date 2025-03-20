@@ -1,0 +1,10 @@
+llista = []
+val1 = input("introdueix un valor per la llista")
+llista.append(val1)
+print(llista)
+val2 = input("introdueix un valor per la llista")
+llista.append(val2)
+print(llista)
+val3 = input("introdueix un valor per la llista")
+llista.append(val3)
+print(llista)
